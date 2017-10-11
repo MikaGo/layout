@@ -1,0 +1,62 @@
+h2 {
+	margin-top: 0;
+}
+body {
+	background-image: url();
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+	}
+header {
+	background-color: black;
+	color: white;
+	margin: 0;
+}
+li {
+	
+}
+main {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+section {
+ 	display: flex;
+ 	flex-direction: column;
+ 	margin: auto;
+ 	width: 60%;
+}
+navigation {
+	width: 15%;
+	flex-direction: column;
+	text-decoration: none;
+}
+aside {
+	width: 25%;
+	margin-top: 200px;
+
+}
+article {
+	width: 100%;
+	background-color: white;
+}
+#reclame {
+  position: fixed;
+
+}
+img {
+	float: right;
+}
+p {
+	margin: 0px;
+}
+footer {
+	text-align: center;
+	background-color: black;
+	position: absolute;
+	bottom: 0;
+	color: white;
+	width: 100%;
+}
+a {
+	text-decoration: none;
+}
